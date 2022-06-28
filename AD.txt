@@ -1,0 +1,28 @@
+{
+    "status": true,
+    "data": {
+        "notice": "关注公众号：“匆匆999”，发布新版本会在这里推送~",
+        "list": [
+            {
+                "image": "https://gitee.com/vicedev/zy_api/raw/master/web/images/hsq.jpg",
+                "desc": "打开微信扫一扫，小程序领券更方便哦~",
+                "scaleType": 1,
+                "redirectUrl": "https://vicedev.gitee.io/zy_api/hsq_info.html"
+            },
+            {
+                "image": "https://gitee.com/vicedev/zy_api/raw/master/saveMoney/images/ele_waimai2.png",
+                "desc": "饿了么外卖红包，每天都能领",
+                "redirectUrl": "https://m.tb.cn/h.f5qHidF",
+                "scaleType": 0,
+                "imageWhRatio": 0.564
+            },
+            {
+                "image": "https://gitee.com/vicedev/zy_api/raw/master/saveMoney/images/meituan_wm.jpg",
+                "desc": "美团外卖红包，每天都能领",
+                "redirectUrl": "https://click.meituan.com/t?t=1&c=1&p=OWMpZ-uzIFOVe6JyOONs3dXuqV0qcAf-r-KCvHdXiNfM3oMXlDSgQ1lHQ7sc1bHIMXeq2XWRYP9S3VMvpbQU5suS6wIbvlY8ysKwoMucfvMajbv9bZgQiDaww5CTVo26X8ROSrtZd3lCCuQ2QfMl1-IdGJHHFnxYI7xQWLE8Ic9zXdtEX9wDdmzaoAOjqxvVQreFyHwrE9qJKFyWUUPv3SeopVXZxazegyjv85lrG2uogbgNizA0Cnc7-zeUBFbMCxJwNYLJEn8nmIA7FZqBRosNj7sfNjHdwHUpMgyInld_amUiQitOAPPwllkbiRxOk0Pqq7VLLqP4WF9rJd0OtJ7k7B7wPdux-KlVX__gsZnFw5lpIQOgGCUlrnB5qbbmLbE92CFyIzS8B3CjTIL-Ag-2ehneK57UXHavDShiAtT4CkKe4ZDYCHoDu6w2iKVyEbpEIcvlJQAPIk9DfJ4NfMNu6diBU_HrpvYHOFGe1LXShq85Yd2Szsg8YH1v1_qcuw-yWwllYHG5FTZiLzVNd86UQVeLL346TM4RS2m5e4zbRCJuxCgW-r_nmdqiOW2hVYX8lcs8pFc0SP3n9_M8ZbAXesjy5XwMjGzDzxnvOpfX9LxbRVlitSay5dNSGOS4ovEFKQ4p22yl0aza4L06TsfPEWJJebnmlzZmv4ERlDsjT8E2pVV4WBPVNP_MNA8Cnk_Ssf5RyWwslrTjWo9j09WFSfxDz95y0V4wvT_endw",
+                "scaleType": 0,
+                "imageWhRatio": 0.499
+            }
+        ]
+    }
+}
